@@ -1,5 +1,5 @@
 
-## Unitex/GramLab Individual Contributor License Agreement
+## Unitex/GramLab Contributor Agreements
 
 > This document is a draft for discussion and still a work in progress. To contribute, please submit a [pull request](https://github.com/UnitexGramLab/unitex-contributor-agreement/pulls). Major changes will be discussed in the comment section.
 
@@ -15,7 +15,7 @@
 
 [Unitex/GramLab][unitex] is an open source, cross-platform, multilingual, lexicon- and grammar-based corpus processing suite. Following the lead of other open source projects, the Unitex/GramLab project requires contributors to jointly assign their copyright on contributions.
 
-### Agreement
+### Unitex/GramLab Individual Contributor License Agreement
 
 ---
 ```
