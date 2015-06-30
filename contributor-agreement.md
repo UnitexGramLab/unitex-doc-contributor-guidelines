@@ -19,6 +19,8 @@
 
 ---
 ```
+Unitex/GramLab Individual Contributor Agreement ("Agreement") v1.0
+
 Thank you for your interest in becoming an Unitex/Gramlab community contributor.
 In order to do that, that is, to obtain the ability to directly contribute source
 code, linguistic resources, documentation or other data ("Code") to a website or
