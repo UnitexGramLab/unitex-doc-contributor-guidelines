@@ -96,7 +96,7 @@ Appendix A. Submitting the agreement
 - Download and print out the Agreement.
 - Complete, date and sign the Agreement.
 - Send the signed Agreement as a digital image. Scan or photograph your signed 
-Agreement and email it to unitex-devel{at}univ-mlv.fr.
+  Agreement and email it to unitex-devel{at}univ-mlv.fr.
 - You will receive an email confirming that the Agreement has been received.
 ```
 ---
