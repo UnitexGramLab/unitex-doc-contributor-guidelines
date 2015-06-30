@@ -26,7 +26,7 @@ In order to do that, that is, to obtain the ability to directly contribute sourc
 code, linguistic resources, documentation or other data ("Code") to a website or
 repository operated or controlled by the Unitex/GramLab Project (a "Unitex/GramLab
 Repository"), you ("You") must indicate your agreement to the terms below following 
-the procedure indicate
+the instructions at the Appendix A. "Submitting the agreement".
 
 1. Contact Information
 
@@ -47,7 +47,7 @@ and/or one or more sets of credentials you already have will be given the power
 to access an Unitex/GramLab Repository. You will not allow anyone else to use
 these credentials to access any Unitex/GramLab system. Should You become aware
 of any such use, You will immediately notify the Unitex/GramLab Project sending
-a message to unitex-devel@univ-mlv.fr; until such notice is received You will be
+a message to unitex-devel{at}univ-mlv.fr; until such notice is received You will be
 presumed to have taken all actions made using Your credentials. The Unitex/GramLab
 Project and their designates will have complete control and discretion over
 capabilities associated with Your credentials and may change them for any reason
@@ -85,12 +85,19 @@ b) You make all reasonable and appropriate efforts to ensure that such Code
 conforms to section "License Terms" and "Notices and Knowledge" of this
 agreement.
 
-X. Signature
+6. Signature
 
 Signed: ______________________________   Printed Name:  ________________________
 
 Date: ________________________________
 
+Appendix A. Submitting the agreement
+
+- Download and print out the Agreement.
+- Complete, date and sign the Agreement.
+- Send the signed Agreement as a digital image. Scan or photograph your signed 
+Agreement and email it to unitex-devel{at}univ-mlv.fr.
+- You will receive an email confirming that the Agreement has been received.
 ```
 ---
 
