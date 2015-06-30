@@ -1,2 +1,1 @@
-# unitex-license-policy
-Unitex/GramLab License Policy
+license-policy.md
