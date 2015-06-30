@@ -13,7 +13,7 @@
 
 ### Overview
 
-[Unitex/GramLab][unitex] is an open source, cross-platform, multilingual, lexicon- and grammar-based corpus processing suite. This document 
+[Unitex/GramLab][unitex] is an open source, cross-platform, multilingual, lexicon- and grammar-based corpus processing suite. Following the lead of other open source projects, the Unitex/GramLab project requires contributors to jointly assign their copyright on contributions. 
 
 ### Agreement
 
@@ -24,7 +24,7 @@ Unitex/GramLab Individual Contributor Agreement ("Agreement") v1.0
 Thank you for your interest in becoming an Unitex/Gramlab community contributor.
 In order to do that, that is, to obtain the ability to directly contribute source
 code, linguistic resources, documentation or other data ("Code") to a website or
-repository operated or controlled by the Unitex/GramLab Project (a "Unitex/GramLab
+repository operated or controlled by the Unitex/GramLab project (a "Unitex/GramLab
 Repository"), you ("You") must indicate your agreement to the terms below following 
 the instructions at the Appendix A. "Submitting the agreement".
 
@@ -46,7 +46,7 @@ You will receive one or more sets of Unitex/GramLab project access credentials,
 and/or one or more sets of credentials you already have will be given the power
 to access an Unitex/GramLab Repository. You will not allow anyone else to use
 these credentials to access any Unitex/GramLab system. Should You become aware
-of any such use, You will immediately notify the Unitex/GramLab Project sending
+of any such use, You will immediately notify the Unitex/GramLab project sending
 a message to unitex-devel{at}univ-mlv.fr; until such notice is received You will be
 presumed to have taken all actions made using Your credentials. The Unitex/GramLab
 Project and their designates will have complete control and discretion over
@@ -58,8 +58,8 @@ to your contributions and so be visible worldwide via the Internet.
 
 Code committed by you to an Unitex/GramLab Repository, whether written by you or
 a third party, must be governed by a license or set of licenses acceptable to the
-Unitex/GramLab Project for the Code in question. Other licenses are not acceptable
-to the Unitex/GramLab Project until the Project declares them to be acceptable
+Unitex/GramLab project for the Code in question. Other licenses are not acceptable
+to the Unitex/GramLab project until the Project declares them to be acceptable
 in writing. You will verify that committed Code contains appropriate boilerplate 
 licensing text.
 
@@ -103,7 +103,7 @@ Appendix A. Submitting the agreement
 
 ### About this document
 
-This document is derived upon the the [Mozilla Foundation Committer's Agreement v2.1](https://static.mozilla.com/foundation/...access/committers-agreement.pdf) and uses the [Semantic Versioning scheme](http://semver.org) to track version releases.
+This document is derived upon the the [Mozilla Foundation Committer's Agreement v2.1](https://static.mozilla.com/foundation/documents/commit-access/committers-agreement.pdf) and uses the [Semantic Versioning scheme](http://semver.org) to track version releases.
 
 --
 
