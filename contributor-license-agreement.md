@@ -1,5 +1,5 @@
 
-## Unitex/GramLab Individual Contributor Agreement
+## Unitex/GramLab Individual Contributor License Agreement
 
 > This document is a draft for discussion and still a work in progress. To contribute, please submit a [pull request](https://github.com/UnitexGramLab/unitex-contributor-agreement/pulls). Major changes will be discussed in the comment section.
 
