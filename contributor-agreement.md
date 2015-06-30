@@ -103,7 +103,7 @@ Agreement and email it to unitex-devel{at}univ-mlv.fr.
 
 ### About this document
 
-This document is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/). This work is based upon the [The Apache Software Foundation Individual Contributor License Agreement v2.0](http://www.apache.org/licenses/icla.txt) and the [Mozilla Foundation Committer's Agreement v2.1](), and uses the [Semantic Versioning scheme](http://semver.org) to track version releases.
+This document is derived upon the the [Mozilla Foundation Committer's Agreement v2.1](https://static.mozilla.com/foundation/...access/committers-agreement.pdf) and uses the [Semantic Versioning scheme](http://semver.org) to track version releases.
 
 --
 
@@ -112,18 +112,4 @@ Copyright (C) 2014-2015 Université Paris-Est Marne-la-Vallée
 [RFC2119]:      http://tools.ietf.org/html/rfc2119
 [repos]:        https://github.com/UnitexGramLab
 [unitex]:       http://unitexgramlab.org
-[forum]:        http://forum.unitexgramlab.org
 [devel]:        mailto:unitex-devel@univ-mlv.fr
-[tutorials]:    https://github.com/UnitexGramLab/unitex-doc-tutorials
-[bugs]:         http://www-igm.univ-mlv.fr/~unitex/index.php?page=6
-[newcommitter]: https://community.apache.org/newcommitter.html
-[makedecision]: http://community.apache.org/committers/decisionMaking.html
-
-[Apache-2.0]:   http://opensource.org/licenses/Apache-2.0
-[BSD-2-Clause]: http://opensource.org/licenses/BSD-2-Clause
-[GFDL]:         http://www.gnu.org/licenses/fdl-1.3.txt
-[MIT]:          http://opensource.org/licenses/MIT
-[LGPL-LR]:      http://bit.do/LGPL-LR
-[LGPLv2]:       http://opensource.org/licenses/lgpl-2.1
-
-
