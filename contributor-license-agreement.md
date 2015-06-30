@@ -13,7 +13,7 @@
 
 ### Overview
 
-[Unitex/GramLab][unitex] is an open source, cross-platform, multilingual, lexicon- and grammar-based corpus processing suite. Following the lead of other open source projects, the Unitex/GramLab project requires contributors to jointly assign their copyright on contributions.
+[Unitex/GramLab][unitex] is an open source, cross-platform, multilingual, lexicon- and grammar-based corpus processing suite. Following the lead of other open source projects, the Unitex/GramLab project requires contributors to jointly assign their copyright on contributions, this is defined by the "Unitex/GramLab Individual Contributor License Agreement". Similarly, the Unitex/GramLab project requires to declare a set of good behaviours related to contributions, this is exposed by the "Unitex/GramLab Individual Contributor Access Requirements Agreement" .
 
 ### Unitex/GramLab Individual Contributor License Agreement
 
@@ -29,11 +29,11 @@ Unitex/GramLab Individual Contributor License Agreement ("Agreement") v1.0
 This document is derived upon [The Apache Software Foundation Individual Contributor License Agreement v2.0](http://www.apache.org/licenses/icla.txt) and uses the [Semantic Versioning scheme](http://semver.org) to track version releases.
 
 
-### Unitex/GramLab Contribution Requirements Agreement
+### Unitex/GramLab Individual Contributor Access Requirements Agreement
 
 ---
 ```
-Unitex/GramLab Contribution Requirements Agreement ("Agreement") v1.0
+Unitex/GramLab Individual Contributor Access Requirements Agreement ("Agreement") v1.0
 
 Thank you for your interest in becoming an Unitex/Gramlab community contributor.
 In order to do that, that is, to obtain the ability to directly contribute source
