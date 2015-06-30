@@ -65,11 +65,12 @@ to access an Unitex/GramLab Repository. You will not allow anyone else to use
 these credentials to access any Unitex/GramLab system. Should You become aware
 of any such use, You will immediately notify the Unitex/GramLab project sending
 a message to unitex-devel{at}univ-mlv.fr; until such notice is received You will be
-presumed to have taken all actions made using Your credentials. The Unitex/GramLab
-Project and their designates will have complete control and discretion over
-capabilities associated with Your credentials and may change them for any reason
-at any time. Your name and email address, or a derivative of it, may be attached
-to your contributions and so be visible worldwide via the Internet.
+presumed to have taken all actions made using Your credentials. 
+
+The Unitex/GramLab Project and their designates will have complete control and 
+discretion over capabilities associated with Your credentials and may change them
+for any reason at any time. Your name and email address, or a derivative of it, 
+may be attached to your contributions and so be visible worldwide via the Internet.
 
 3. License Terms
 
