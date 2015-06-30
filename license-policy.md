@@ -16,7 +16,7 @@
 
 ### About this document
 
-This document is licensed under a [Creative Commons Attribution-ShareAlike 2.0](http://creativecommons.org/licenses/by-sa/2.0/). This work use the [Semantic Versioning scheme](http://semver.org) to track version releases.
+This document is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/). This work use the [Semantic Versioning scheme](http://semver.org) to track version releases.
 
 
 --
