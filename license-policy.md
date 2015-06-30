@@ -12,11 +12,11 @@
 
 ### Overview
 
-[Unitex/GramLab][unitex] is an open source, cross-platform, multilingual, lexicon- and grammar-based corpus processing suite.
+[Unitex/GramLab][unitex] is an open source, cross-platform, multilingual, lexicon- and grammar-based corpus processing suite. determines which license to use for source files stored in Mozilla-controlled code repositories, whether hosted at Mozilla or elsewhere - "Mozilla Repositories". 
 
 ### About this document
 
-This document is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/). This work use the [Semantic Versioning scheme](http://semver.org) to track version releases.
+This document is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/). This work uses the [Semantic Versioning scheme](http://semver.org) to track version releases.
 
 
 --
