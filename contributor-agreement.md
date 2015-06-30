@@ -164,8 +164,9 @@ Thank you for your interest in becoming an Unitex/Gramlab community contributor.
 In order to do that, that is, to obtain the ability to directly contribute source
 code, linguistic resources, documentation or other data ("Code") to a website or
 repository operated or controlled by the Unitex/GramLab project (a "Unitex/GramLab
-Repository"), you ("You") must indicate your agreement to the terms set out below
-following the instructions at the Appendix A. "Submitting the agreement".
+Repository"), you ("You") must indicate your agreement to the terms set out below.
+If you have not already done so, please complete and sign, then scan and email a 
+pdf file of this Agreement to unitex-devel{at}univ-mlv.fr.
 
 For the avoidance of doubt: this document commits you to a set of good behaviours;
 it is not a copyright assignment.
@@ -234,13 +235,6 @@ Signed: ______________________________   Printed Name:  ________________________
 
 Date: ________________________________
 
-Appendix A. Submitting the agreement
-
-- Download and print out the Agreement.
-- Complete, date and sign the Agreement.
-- Send the signed Agreement as a digital image. Scan or photograph your signed 
-  Agreement and email it to unitex-devel{at}univ-mlv.fr.
-- You will receive an email confirming that the Agreement has been received.
 ```
 ---
 
