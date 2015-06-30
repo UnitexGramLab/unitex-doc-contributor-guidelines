@@ -13,7 +13,7 @@
 
 ### Overview
 
-[Unitex/GramLab][unitex] is an open source, cross-platform, multilingual, lexicon- and grammar-based corpus processing suite. Following the lead of other open source projects, the Unitex/GramLab project requires contributors to jointly assign their copyright on contributions
+[Unitex/GramLab][unitex] is an open source, cross-platform, multilingual, lexicon- and grammar-based corpus processing suite. Following the lead of other open source projects, the Unitex/GramLab project requires contributors to jointly assign their copyright on contributions.
 
 ### Agreement
 
