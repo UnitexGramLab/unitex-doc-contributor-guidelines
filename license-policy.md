@@ -12,12 +12,11 @@
 
 ### Overview
 
-[Unitex/GramLab][unitex] is an open source, cross-platform, multilingual, lexicon- and grammar-based corpus processing suite. This document determines which license to use for source files stored in the Unitex/GramLab code repositories, whether hosted at [GitHub](https://github.com/UnitexGramLab) or elsewhere - "Unitex/GramLab Repositories".
+[Unitex/GramLab][unitex] is an open source, cross-platform, multilingual, lexicon- and grammar-based corpus processing suite. This document determines which license to use for source files stored in the Unitex/GramLab code repositories, whether hosted at [GitHub](https://github.com/UnitexGramLab) or elsewhere - "Unitex/GramLab Repositories". Contributors to Unitex/GramLab Repositories must comply with this policy, as they agreed to do in the Contributor's Agreement.
 
 ### About this document
 
-This document is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/). This work is inspired upon the [Mozilla Foundation License Policy](https://www.mozilla.org/MPL/license-policy.html) and uses the [Semantic Versioning scheme](http://semver.org) to track version releases.
-
+This document is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/). This work is based upon the [Mozilla Foundation License Policy](https://www.mozilla.org/MPL/license-policy.html) and uses the [Semantic Versioning scheme](http://semver.org) to track version releases.
 
 --
 
