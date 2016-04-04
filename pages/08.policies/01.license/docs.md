@@ -1,4 +1,8 @@
-## Unitex/GramLab License Policy
+---
+title: Unitex/GramLab License Policy
+taxonomy:
+    category: docs
+---
 
 > This document is a draft for discussion and still a work in progress. To contribute, please submit a [pull request](https://github.com/UnitexGramLab/governance/pulls). Major changes will be discussed in the comment section.
 
