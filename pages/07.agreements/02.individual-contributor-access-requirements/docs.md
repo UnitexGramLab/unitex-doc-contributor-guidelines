@@ -95,14 +95,17 @@ agreement.
 
 6. Signature
 
+
+
+
 Signed: ______________________________   Printed Name:  ________________________
 
-Date: ________________________________
+Date:   ______________________________
 
 ```
 ---
 
-# About this document
+# Attribution
 
 This document is derived upon the [Mozilla Foundation Commit Access Requirements](https://www.mozilla.org/en-US/about/governance/policies/commit/requirements/) and uses the [Semantic Versioning scheme](http://semver.org) to track version releases.
 
