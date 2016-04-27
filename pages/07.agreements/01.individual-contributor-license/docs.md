@@ -137,7 +137,7 @@ Date: ________________________________
 ```
 ---
 
-# About this document
+# Attribution
 
 This document is derived upon [The Apache Software Foundation Individual Contributor License Agreement v2.0](http://www.apache.org/licenses/icla.txt) and uses the [Semantic Versioning scheme](http://semver.org) to track version releases.
 
