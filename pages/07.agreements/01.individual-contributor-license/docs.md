@@ -35,11 +35,11 @@ already done so, please complete and sign, then scan and email a pdf file of thi
 Agreement to unitex-devel{at}univ-mlv.fr. Please read this document carefully 
 before signing and keep a copy for your records.
 
-Full name: ____________________________  E-Mail(s): ____________________________
+Full name: ____________________________  E-Mail: _______________________________
 
 Postal Address: _______________________  Telephone: ____________________________
 
-_______________________________________  Facsimile: ____________________________
+_______________________________________  Preferred ID: _________________________
 
 _______________________________________  GitHub Account Name: __________________
 
