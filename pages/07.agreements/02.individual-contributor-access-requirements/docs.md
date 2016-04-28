@@ -62,7 +62,7 @@ discretion over capabilities associated with Your credentials and may change the
 for any reason at any time. Your name and email address, or a derivative of it, 
 may be attached to your contributions and so be visible worldwide via the Internet.
 
-Notice that if your account in a particular Repository is inactive for more than
+Note that if your account in a particular Repository is inactive for more than
 6 months, it may be deactivated. However, the knowledge that you have achieved a
 particular level of access is retained. Therefore, getting your account reactivated
 is a simple matter of send a message to unitex-devel{at}univ-mlv.fr asking to turn
