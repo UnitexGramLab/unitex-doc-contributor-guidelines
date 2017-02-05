@@ -6,9 +6,9 @@ taxonomy:
 
 > This is a draft any comments or suggestions are welcome
 
-Unitex/GramLab is an open source, cross-platform, multilingual, lexicon- and grammar-based corpus processing suite. This guide presents a compilation of guidelines to write commit messages on a Unitex/GramLab source code repository.
+> Unitex/GramLab is an open source, cross-platform, multilingual, lexicon- and grammar-based corpus processing suite. This guide presents a compilation of guidelines to write commit messages on a Unitex/GramLab source code repository.
 
-> The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED", "MAY", and "OPTIONAL" in this document are to be interpreted as described in [RFC 2119](http://tools.ietf.org/html/rfc2119)
+> **The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED", "MAY", and "OPTIONAL" in this document are to be interpreted as described in [RFC 2119](http://tools.ietf.org/html/rfc2119)**
 
 # 1. Commit messages
 
