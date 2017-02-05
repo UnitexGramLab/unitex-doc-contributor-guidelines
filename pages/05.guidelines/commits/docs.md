@@ -22,14 +22,6 @@ Commit messages MUST be composed by a commit subject (first line) and OPTIONALLY
 
 ## 1.1 Commit subject
 
-- **MUST** be between 18 and 69 characters long. The best practice is not exceeded 50, GitHub will warn you if you go past this limit and will truncate any subject line longer than 69 characters with an ellipsis
-
-- **MUST** follow the next format: `(<tag> )?<Message>`
-
-- **MAY** start with a commit tag (`<tag>`), valid commit tags are described below
-
-- **MUST** have a commit message (`<Message>`), valid commit messages are described below
-
 <div style="text-align:center">
     <img src="https://s28.postimg.org/i6g05kpel/commit.png"/>
 </div>
@@ -68,6 +60,14 @@ PORIENT L
 "<WORD>+<NB>" 900 298 1 1 
 "[" 121 202 1 3 
 --->
+
+- **MUST** be between 18 and 69 characters long. The best practice is not exceeded 50, GitHub will warn you if you go past this limit and will truncate any subject line longer than 69 characters with an ellipsis
+
+- **MUST** follow the next format: `(<tag> )?<Message>`
+
+- **MAY** start with a commit tag (`<tag>`), valid commit tags are described below
+
+- **MUST** have a commit message (`<Message>`), valid commit messages are described below
 
 ### 1.1.1 Commit tags 
 
