@@ -202,7 +202,7 @@ Change UI to support generic graphs
 
 - Others commits requires a body to include further explanations and/or context
 
-``
+```
 [feature #24] Add find and replace on graphs
 
 This commit adds a find and replace feature on graph's boxes.
@@ -210,7 +210,7 @@ The find and replace dialog allows user...
 
 Resolves #24
 See also #23
-``
+```
 
 # 2. Special triggers
 
