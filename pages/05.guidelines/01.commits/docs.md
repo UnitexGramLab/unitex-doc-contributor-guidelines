@@ -143,6 +143,7 @@ PORIENT L
 | `Allow`       |
 | `Avoid`       |
 | `Change`      |
+| `Check`       |
 | `Create`      |
 | `Delete`      |
 | `Disallow`    |
