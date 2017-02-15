@@ -158,6 +158,7 @@ PORIENT L
 | `Replace`     |
 | `Replace`     |
 | `Resolve`     |
+| `Revert`      |
 | `Update`      |
 | `Use`         |
 
