@@ -81,7 +81,6 @@ PORIENT L
 
 #### File types (optional) (`FT`):
 
-
 | Tag             | Description                                       | Changes affecting            |
 | --------------- | :-----------------------------------------------: | :---------------------:      |
 | `bin`           | Change related to *binary* files                  | binary files                 |
@@ -104,22 +103,22 @@ PORIENT L
 
 #### Change type (mandatory) (`CT`)
 
-
-| Tag            | Description                                         | Changes affecting       |
-| -------------- | :-------------------------------------------------: | :---------------------: |
-| `deprecat`     | Deprecation of a once-stable feature                | source files            |
-| `enhance`      | Enhancement in existing functionality               | source files            |
-| `fix`          | Fix for any bug                                     | source files            |
-| `feature`      | New feature or functionality                        | source files            |
-| `refactor`     | Improve coding style, comments                      | source files            |
-| `remove`       | Remove a feature                                    | source files            |
+| Tag            | Description                                         |
+| -------------- | :-------------------------------------------------: |
+| `deprecat`     | Deprecation of a once-stable feature                |
+| `enhance`      | Enhancement in existing functionality               |
+| `fix`          | Fix for any bug                                     |
+| `feature`      | New feature or functionality                        |
+| `hotfix`       | Hotfix for any bug                                  |
+| `refactor`     | Improve coding style, comments                      |
+| `remove`       | Remove a feature                                    |
 
 
 #### Issue number (optional) (`IN`):
 
-| Tag             | Description                                       | Changes affecting       |
-| --------------- | :-----------------------------------------------: | :---------------------: |
-| `#n`            | Refer the issue #n in the same repository         | source files            |
+| Tag             | Description                                       |
+| --------------- | :-----------------------------------------------: |
+| `#n`            | Refer the issue #n in the same repository         |
 
 
 ### 1.1.2 Commit message
