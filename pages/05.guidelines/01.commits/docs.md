@@ -173,7 +173,7 @@ PORIENT L
 
 - **MAY** be formatted using [Markdown syntax](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-- **MUST** cleary specify any drawback or limitation on the committed code
+- **MUST** clearly specify any drawback or limitation on the committed code
 
 
 ## 1.3 Examples
