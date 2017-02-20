@@ -173,7 +173,9 @@ PORIENT L
 
 - **MAY** be formatted using [Markdown syntax](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-- **MUST** clearly specify any drawback or limitation on the committed code
+- **MUST** clearly specify any drawback or limitation of the committed code
+
+- **MAY** highlight any further improvement on the committed code
 
 
 ## 1.3 Examples
@@ -188,7 +190,7 @@ Update README.md
 Change UI to support generic graphs
 ``
 
-- Not every commit requires both a subject and a body
+- Not every commit requires a body
 
 ``
 [fix #15] Resolve segmentation fault on LocateTfst
@@ -202,7 +204,7 @@ Change UI to support generic graphs
 [minor refactor] Replace tabs by spaces
 ``
 
-- Others commits requires a body to include further explanations and/or context
+- Sometimes, a commit requires a body to include further explanations and/or context
 
 ```
 [feature #24] Add find and replace on graphs
@@ -223,7 +225,7 @@ See also #23
 | `[ci release]`| Create a distribution release for this commit only on master | Control CI            |
 | `Close #n`    | Close the issue #n in the same repository                    | Control issues        |
 | `#n`          | Refer the issue #n in the same repository                    | Autolink reference    |
-| `caf6218`     | Refer a commit hash in the same repository                   | Autolink reference    |
+| `caf6218`     | Refers to a commit hash in the same repository               | Autolink reference    |
 | `@user`       | Refer a `user` on GitHub                                     | Autolink reference    |
 | `@organization/team`| Refer a `organization/team` on GitHub                  | Autolink reference    |
 
