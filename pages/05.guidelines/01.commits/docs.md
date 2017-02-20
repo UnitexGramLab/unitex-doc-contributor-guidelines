@@ -165,7 +165,7 @@ PORIENT L
 
 ## 1.2 Commit body
 
-- **SHOULD NOT** exceed 72 characters long
+- **SHOULD NOT** exceed 72 characters
  
 - **MAY** be free-form and **SHOULD** use normal punctuation and capital letters where appropriate
 
