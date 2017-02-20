@@ -12,7 +12,7 @@ taxonomy:
 
 # 1. Commit messages
 
-Commit messages MUST be composed by a commit subject (first line) and OPTIONALLY by accompanied with a blank line (second line) followed by a commit body (third line):
+Commit messages MUST be composed of a commit subject (first line) and OPTIONALLY by followed by a blank line (second line) and a commit body (third line):
 
 - The first line is the commit subject and is treated as the subject of an email
 
@@ -63,7 +63,7 @@ PORIENT L
 
 - **MUST** be between 18 and 69 characters long. The best practice is not exceeded 50, GitHub will warn you if you go past this limit and will truncate any subject line longer than 69 characters with an ellipsis
 
-- **MUST** follow the next format: `(<tag> )?<Message>`
+- **MUST** have the following format: `(<tag> )?<Message>`
 
 - **MAY** start with a commit tag (`<tag>`), valid commit tags are described below
 
@@ -77,7 +77,7 @@ PORIENT L
 
 - **MUST** be surrounded by brackets []
 
-- **MUST** follow the next format: `FT? CL? CT IN?`
+- **MUST** have the following format: `FT? CL? CT IN?`
 
 #### File types (optional) (`FT`):
 
