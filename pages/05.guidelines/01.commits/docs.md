@@ -82,17 +82,17 @@ PORIENT L
 #### File types (optional) (`FT`):
 
 | Tag             | Description                                       | Changes affecting            |
-| --------------- | :-----------------------------------------------: | :---------------------:      |
+| --------------- | ------------------------------------------------- | -----------------------      |
 | `bin`           | Change related to *binary* files                  | binary files                 |
 | `ci`            | Change related to *continuous integration* files  | continuous integration files |
 | `doc`           | Change related to *documentation* files           | documentation files          |
-| (Nothing)       | Change related to source code files               | source code files          |
+| (Nothing)       | Change related to source code files               | source code files            |
 
 
 #### Change level (optional) (`CL`):
 
 | Tag             | Description                                  |
-| --------------- | :------------------------------------------: |
+| --------------- | -------------------------------------------- |
 | `break`         | Breaking change                              |
 | `exp`           | Experimental change                          |
 | `tmp`           | Temporal change                              |
@@ -104,7 +104,7 @@ PORIENT L
 #### Change type (mandatory) (`CT`)
 
 | Tag            | Description                                         |
-| -------------- | :-------------------------------------------------: |
+| -------------- | --------------------------------------------------- |
 | `deprecat`     | Deprecation of a once-stable feature                |
 | `enhance`      | Enhancement in existing functionality               |
 | `fix`          | Fix for any bug                                     |
@@ -117,7 +117,7 @@ PORIENT L
 #### Issue number (optional) (`IN`):
 
 | Tag             | Description                                       |
-| --------------- | :-----------------------------------------------: |
+| --------------- | ------------------------------------------------- |
 | `#n`            | Refer the issue #n in the same repository         |
 
 
@@ -219,7 +219,7 @@ See also #23
 
 
 | Trigger      | Description                                                   | Action                |
-| ------------- | :----------------------------------------------------------: | :-------------------: |
+| ------------- | ------------------------------------------------------------ | --------------------- |
 | `[ci skip]`   | Don't run a build for this commit                            | Control CI            |
 | `[ci release]`| Create a distribution release for this commit only on master | Control CI            |
 | `Close #n`    | Close the issue #n in the same repository                    | Control issues        |
