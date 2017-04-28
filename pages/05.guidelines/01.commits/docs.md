@@ -135,32 +135,7 @@ PORIENT L
 
 #### Common operation verbs (`OV`)
 
-
-| Operation     |
-| ------------- |
-| `Add`         |
-| `Allow`       |
-| `Avoid`       |
-| `Change`      |
-| `Check`       |
-| `Create`      |
-| `Delete`      |
-| `Disallow`    |
-| `Disable`     |
-| `Enable`      |
-| `Improve`     |
-| `Init`        |
-| `Integrate`   |
-| `Merge`       |
-| `Move`        |
-| `Rename`      |
-| `Replace`     |
-| `Replace`     |
-| `Resolve`     |
-| `Revert`      |
-| `Update`      |
-| `Use`         |
-
+`Add`, `Allow`, `Avoid`, `Change`, `Check`, `Create`, `Delete`, `Disallow`, `Disable`, `Enable`, `Improve`, `Init`, `Integrate`, `Merge`, `Move`, `Rename`, `Replace`, `Replace`, `Resolve`, `Revert`, `Update`, `Use`.
 
 ## 1.2 Commit body
 
