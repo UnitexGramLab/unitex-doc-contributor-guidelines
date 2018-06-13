@@ -23,12 +23,12 @@ Commit messages MUST be composed of a commit subject (first line) and OPTIONALLY
 ## 1.1 Commit subject
 
 <div style="text-align:center">
-    <img src="https://s28.postimg.org/i6g05kpel/commit.png"/>
+    <img src="https://s15.postimg.cc/zbmioqdor/commit.png"/>
 </div>
 
 <!---
 #Unigraph
-SIZE 1318 840
+SIZE 1552 840
 FONT Inconsolata:  10
 OFONT Inconsolata:B 12
 BCOLOR 16777215
@@ -51,11 +51,11 @@ PORIENT L
 "" 983 298 0 
 "break+exp+tmp+major+minor+sec+<E>" 232 202 1 4 
 "bin+ci+doc+<E>" 160 202 1 2 
-"deprecat+enhance+fix+feature+refactor+remove" 317 202 1 5 
+"deprecat+enhance+fix+feature+hotfix+refactor+remove" 317 202 1 5 
 "\#<NB>+<E>" 430 202 1 6 
 "]" 509 202 1 7 
 "\" \"" 555 202 1 8 
-"Add+Allow+Avoid+Change+Create+Delete+Disallow+Disable+Enable+Improve+Init+Integrate+Merge+Move+Rename+Replace+Resolve+Revert+Update+Use" 675 298 1 9 
+"Add+Allow+Avoid+Change+Check+Create+Delete+Disallow+Disable+Enable+Improve+Init+Integrate+Merge+Move+Rename+Replace+Resolve+Revert+Update+Use" 675 298 1 9 
 "<WORD>+<NB>+<PNC>+." 794 298 2 10 9 
 "<WORD>+<NB>" 900 298 1 1 
 "[" 121 202 1 3 
