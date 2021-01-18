@@ -49,7 +49,7 @@ PORIENT L
 12
 "<E>" 51 299 2 8 11 
 "" 983 298 0 
-"break+exp+tmp+major+minor+sec+<E>" 232 202 1 4 
+"break+exp+tmp+major+minor+sec+wip+<E>" 232 202 1 4 
 "bin+ci+doc+<E>" 160 202 1 2 
 "deprecat+enhance+fix+feature+hotfix+refactor+remove" 317 202 1 5 
 "\#<NB>+<E>" 430 202 1 6 
@@ -99,6 +99,7 @@ PORIENT L
 | `major`         | Major change                                 |
 | `minor`         | Minor change                                 |
 | `sec`           | Vulnerability-related change                 |
+| `wip`           | Work in progress change                      |
 | (Nothing)       | Normal change                                |
 
 #### Change type (mandatory) (`CT`)
