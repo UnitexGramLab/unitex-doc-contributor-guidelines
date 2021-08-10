@@ -100,6 +100,7 @@ PORIENT L
 | `minor`         | Minor change                                 |
 | `revert`        | Revert a commit change                       |
 | `sec`           | Vulnerability-related change                 |
+| `skip`          | Skip this change for building                |
 | `wip`           | Work in progress change                      |
 | (Nothing)       | Normal change                                |
 
