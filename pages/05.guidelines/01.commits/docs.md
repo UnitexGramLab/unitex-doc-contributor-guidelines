@@ -98,6 +98,7 @@ PORIENT L
 | `tmp`           | Temporal change                              |
 | `major`         | Major change                                 |
 | `minor`         | Minor change                                 |
+| `revert`        | Revert a commit change                       |
 | `sec`           | Vulnerability-related change                 |
 | `wip`           | Work in progress change                      |
 | (Nothing)       | Normal change                                |
