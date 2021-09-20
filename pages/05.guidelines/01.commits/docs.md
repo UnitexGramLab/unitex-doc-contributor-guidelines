@@ -86,6 +86,7 @@ PORIENT L
 | `bin`           | Change related to *binary* files                  | binary files                 |
 | `ci`            | Change related to *continuous integration* files  | continuous integration files |
 | `doc`           | Change related to *documentation* files           | documentation files          |
+| `vendor`        | Change related to vendor or third-party resources | vendor or third-party files  |
 | (Nothing)       | Change related to source code files               | source code files            |
 
 
